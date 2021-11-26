@@ -14,7 +14,7 @@ An arbitrary-precision Decimal type for JavaScript.
   - Integers and floats
   - Simple but full-featured API
   - Replicates many of the methods of JavaScript's `Number.prototype` and `Math` objects
-  - Also handles hexadecimal, binary and octal values
+  - Also handles hexadecimal, bifhjusdiauhgfsuid hiuesdfh uisd fhiusduhfnary and octal values
   - Faster, smaller, and perhaps easier to use than JavaScript versions of Java's BigDecimal
   - No dependencies
   - Wide platform compatibility: uses JavaScript 1.5 (ECMAScript 3) features only
